@@ -116,6 +116,8 @@
 body{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+    font-size: 24px;
 }
 
 
@@ -140,8 +142,7 @@ body{
     background-color: rgb(202, 80, 35);
 }
 .directives{
-    text-decoration: wavy;
-    background-color: rgba(100, 30, 165, 0.938);
+    background-color: rgba(53, 65, 231, 0.938);
     font-size: 24px;
     border-radius: 10px;
     
@@ -192,6 +193,7 @@ button{
 .image{
     border-radius: 8px;
     box-shadow: 10;
+    justify-content: start;
 }
 .par1{
 text-decoration: none;
@@ -213,6 +215,8 @@ text-decoration: none;
 .card-header{
     box-shadow: 50px;
     border-radius: 15px;
+    text-decoration: underline;
+    font-size: 24px;
 }
 .card-body{
     border-radius: 20px;
@@ -221,4 +225,15 @@ text-decoration: none;
 }
 .reporthood{
     background-color: #1b0101;
+}
+.sport{
+    background-color: rgb(53, 3, 28);
+}
+.text-header{
+    text-decoration: underline;
+}
+.col-md-12{
+    background-color: #350202;
+    border-radius: 20px;
+    margin: auto;
 }
