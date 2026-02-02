@@ -110,7 +110,7 @@
     flex-direction: column;
     text-align: start;
     font-size: 24px;
-    background-color: rgb(20, 4, 109);
+    background-color: rgb(104, 17, 2);
 
 }
 body{
@@ -132,6 +132,8 @@ body{
 }
 #header{
     text-decoration: underline;
+    font-size: 24px;
+    color: rgb(4, 197, 46);
 }
 .contacts{
     box-shadow: 8px;
@@ -236,4 +238,8 @@ text-decoration: none;
     background-color: #350202;
     border-radius: 20px;
     margin: auto;
+}
+.lastbutton{
+    color: lime;
+
 }
